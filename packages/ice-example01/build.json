@@ -1,0 +1,11 @@
+{
+  "devPublicPath": "http://localhost:3333/",
+  "plugins": [
+    [
+      "build-plugin-ignore-style",
+      {
+        "libraryName": "antd"
+      }
+    ]
+  ]
+}
